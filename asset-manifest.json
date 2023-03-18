@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/eppl2023websitefiles/static/css/main.9ad86195.css",
+    "main.js": "/eppl2023websitefiles/static/js/main.50ffd96a.js",
+    "static/js/787.d5a3db6e.chunk.js": "/eppl2023websitefiles/static/js/787.d5a3db6e.chunk.js",
+    "static/media/fab.pdf": "/eppl2023websitefiles/static/media/fab.8f7f1a3bf546c3847a9a.pdf",
+    "static/media/ehv.pdf": "/eppl2023websitefiles/static/media/ehv.bee0563284f47b9dd8ec.pdf",
+    "static/media/eni.pdf": "/eppl2023websitefiles/static/media/eni.fc22440831d9d9bd1202.pdf",
+    "static/media/fab.jpg": "/eppl2023websitefiles/static/media/fab.b797df03dbce06dd9779.jpg",
+    "static/media/ongo.jpg": "/eppl2023websitefiles/static/media/ongo.2c4341ec0dbe7c2856c7.jpg",
+    "static/media/quality-1.jpg": "/eppl2023websitefiles/static/media/quality-1.79b89020bc0df1b5fe93.jpg",
+    "static/media/Ov.jpg": "/eppl2023websitefiles/static/media/Ov.5627f8d7c2fd6159fc78.jpg",
+    "static/media/kp.png": "/eppl2023websitefiles/static/media/kp.1804804a9dc2e55523bf.png",
+    "static/media/career.jpg": "/eppl2023websitefiles/static/media/career.d4d7798c7a9a6505b6ca.jpg",
+    "static/media/essel.jpg": "/eppl2023websitefiles/static/media/essel.bd46c73c5dc824e5add8.jpg",
+    "static/media/slick.svg": "/eppl2023websitefiles/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/eppl2023websitefiles/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/eppl2023websitefiles/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/eppl2023websitefiles/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/eppl2023websitefiles/index.html",
+    "main.9ad86195.css.map": "/eppl2023websitefiles/static/css/main.9ad86195.css.map",
+    "main.50ffd96a.js.map": "/eppl2023websitefiles/static/js/main.50ffd96a.js.map",
+    "787.d5a3db6e.chunk.js.map": "/eppl2023websitefiles/static/js/787.d5a3db6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad86195.css",
+    "static/js/main.50ffd96a.js"
+  ]
+}
